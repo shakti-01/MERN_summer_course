@@ -1,0 +1,66 @@
+/* --------------------- */
+/* width */
+::-webkit-scrollbar {
+    width: 0.5em;
+}
+  
+
+/* -------------------------------- */
+body{
+    background: linear-gradient(to bottom, #000066 0%, #cc33ff 100%);
+    color:white;
+}
+.prearea{
+    background-color: lightcoral;
+}
+p{
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+p>a{
+    color:aqua;
+}
+ul{
+    list-style-type: square;
+    text-transform: capitalize;
+}
+.flex-container{
+    max-width: 90%;
+    border: 2px dashed blueviolet;
+    padding: 2em;
+    background-color: aqua;
+    margin: auto;
+}
+.flex-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:5em;
+}
+.fitem{
+    background-color: red;
+    font-size: large;
+    font-style: oblique;
+}
+
+
+/* ------------------------grid---------- */
+.grid-container{
+    border: 2px solid yellow;
+    background-color: gold;
+    color: black;
+    max-width: 60%;
+    margin: auto;
+}
+.grid-area{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+#intro{
+    color: red;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+}

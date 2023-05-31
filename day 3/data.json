@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "img" : "https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg",
+            "title":"Stranger's Things",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNk8ZDtChW6qAR28Jxaoq5QihfHqeOxAIFnw&usqp=CAU",
+            "title":"Harry Potter",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg",
+            "title":"Stranger's Things",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNk8ZDtChW6qAR28Jxaoq5QihfHqeOxAIFnw&usqp=CAU",
+            "title":"Harry Potter",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg",
+            "title":"Stranger's Things",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNk8ZDtChW6qAR28Jxaoq5QihfHqeOxAIFnw&usqp=CAU",
+            "title":"Harry Potter",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://m.media-amazon.com/images/M/MV5BMDRjYWI5NTMtZTYzZC00NTg4LWI3NjMtNmI3MTdhMWQ5MGJlXkEyXkFqcGdeQXVyNTg4MDc4Mg@@._V1_FMjpg_UX1000_.jpg",
+            "title":"Stranger's Things",
+            "rating": 4.5
+        },
+        {
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNk8ZDtChW6qAR28Jxaoq5QihfHqeOxAIFnw&usqp=CAU",
+            "title":"Harry Potter",
+            "rating": 4.5
+        }
+    ]
+}

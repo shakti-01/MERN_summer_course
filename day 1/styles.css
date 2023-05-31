@@ -1,10 +1,7 @@
 /* --------------------- */
-/* width */
 ::-webkit-scrollbar {
     width: 0.5em;
 }
-  
-
 /* -------------------------------- */
 body{
     background: linear-gradient(to bottom, #000066 0%, #cc33ff 100%);

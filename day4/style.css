@@ -86,6 +86,9 @@ a{
     align-items: center;
     flex-direction: column;
     padding: 4em;
+    border: 1px solid rgb(0, 206, 162);
+    width: 50%;
+    margin: auto;
 }
 input[type="submit"]{
     background-color: aqua;
